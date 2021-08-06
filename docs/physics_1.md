@@ -1,10 +1,6 @@
 # physics.js의 기본을 알아보자
 _모든 자료는 <a href="http://wellcaffeinated.net/PhysicsJS/">physics.js 공식문서</a>를 보고 작성하였습니다._
 
-대부분의 물리엔진 라이브러리는 world, body, renderer, event 혹은 behavior 등으로 구성되어있다. <br/>
-(사족을 붙이자면..) ~matter.js라는 물리엔진 라이브러리도 있는데 공식문서 설명도 너무 간단하고 <br/> 무엇보다 youtube에서 설명하는 공식 영상의 경우 p5.js를 같이 겸하는 등 
-자체 라이브러리에 대한 설명이 부족하다... <br/> 그래서 개인적으로 physics.js 공식문서가 잘 작성되어 있어 시작하게 되었다;;~
-
 <br/>
 
 
